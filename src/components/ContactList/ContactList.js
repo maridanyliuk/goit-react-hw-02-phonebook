@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-import { RiDeleteBin2Line } from 'react-icons/ri';
 
 export const ContactList = ({ contacts, onDelete }) => {
   return (
